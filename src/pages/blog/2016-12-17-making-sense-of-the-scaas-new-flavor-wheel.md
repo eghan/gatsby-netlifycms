@@ -1,13 +1,16 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: '1: in the beginning... React vs. SSG'
 date: 2016-12-17T15:04:10.000Z
+description: >-
+  The year is 2015, you must chose either you can serve dynamic content with
+  dynamic interactions, or you can be fast.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/the_tortoise_and_the_hare_-_project_gutenberg_etext_19994.jpg
 tags:
-  - flavor
-  - tasting
+  - React
+  - Gatsby
+  - SSG
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
